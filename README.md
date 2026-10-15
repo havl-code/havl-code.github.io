@@ -37,8 +37,9 @@ speedcubers. It's live at **[havl-code.github.io](https://havl-code.github.io)**
 - **Previews:** a screenshot of each app, or for command-line projects, a terminal that types
   out a session as it scrolls into view
 - **Links:** every project links to its GitHub repo, plus a live demo where there is one
+- **Hand-Drawn Icons:** projects with an icon of their own show it beside their name
 - **Organisation Projects:** projects from [XE1AF35](https://xe1af35.github.io), my
-  organisation for small, local-first photography tools, carry a label linking to its site
+  organisation for small, local-first photography tools, carry a label with its icon, linking to its site
 
 ### 🔎 Project Filter
 
