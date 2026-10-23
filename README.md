@@ -15,7 +15,7 @@ speedcubers. It's live at **[havl-code.github.io](https://havl-code.github.io)**
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white)
 
-[![The top of the site in its dark theme: a time-of-day greeting, my name, a short introduction, GitHub and LinkedIn buttons, and the project filter](docs/preview.png)](https://havl-code.github.io)
+[![The top of the site in its dark theme: a time-of-day greeting, my name, a short introduction, GitHub and LinkedIn buttons, and the project filter with its Cards, List, and Detailed views](docs/preview.png)](https://havl-code.github.io)
 
 ---
 
@@ -31,6 +31,8 @@ speedcubers. It's live at **[havl-code.github.io](https://havl-code.github.io)**
 
 ### 🗂️ Projects
 
+- **Views:** see the projects as Cards in a quick grid, as a compact List, or Detailed with
+  everything about each one, and click a project's name in Cards or List to see it in Detailed
 - **The Story Behind Each One:** what it does, why I built it, and what I learnt making it
 - **Languages and Tools:** every project lists what it's built with, from Python and C to
   FastAPI, LangGraph, and Playwright MCP
